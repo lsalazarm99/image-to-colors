@@ -7,7 +7,13 @@
 const colors = [[25, 50, 75], [3, 120, 60], [90, 27, 9], [210, 160, 180]];
 ```
  
- Colors are obtained by collecting the pixels of the image: from left to right, from top to bottom.
+Colors are obtained by collecting the pixels of the image: from left to right, from top to bottom.
+ 
+## Installation
+Just run:
+```bash
+npm install image-to-colors
+```
 
 ## Usage
 
