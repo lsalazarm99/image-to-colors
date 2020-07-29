@@ -1,0 +1,6 @@
+.idea
+image-to-colors.iml
+
+node_modules
+dist
+coverage
