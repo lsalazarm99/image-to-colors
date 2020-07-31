@@ -1,6 +1,6 @@
 {
   "name": "image-to-colors",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get an array of colors from an image.",
   "main": "dist/image-to-colors.js",
   "types": "dist/image-to-colors.d.ts",
