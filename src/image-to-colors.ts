@@ -119,6 +119,8 @@ export default class ImageToColors {
   }
 }
 
+export type Color = [number, number, number];
+
 export enum ImageToColorsCuttingMode {
   pixels,
   percentage,
@@ -165,8 +167,4 @@ export interface ImageToColorsCuttingParameters {
    * are up.
    */
   cutHeight: number;
-}
-
-export interface Color {
-  [index: number]: number;
 }
